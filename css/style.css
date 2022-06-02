@@ -49,6 +49,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 
 .search-img {
   display: flex;
+  justify-content:center;
   align-items: center;
   padding-right: 13px;
   margin-top: -5px;
@@ -58,10 +59,9 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   color: #9aa0a6;
   height: 20px;
   width: 20px;
-  margin-top: 0px;
   display: inline-block;
   fill: currentColor;
-  line-height: 24px;
+  line-height: 34px;
   position: relative;
 }
 
@@ -78,7 +78,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   font: 16px arial, sans-serif;
   line-height: 34px;
   height: 34px !important;
-  display: block;
 }
 
 .input {
