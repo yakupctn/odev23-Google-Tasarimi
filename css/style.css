@@ -4,7 +4,9 @@
   overflow: hidden;
   margin-right: 16px;
   font-family: arial,sans-serif;
-  font-size: 13px;
+  font-size: 14px;
+  display: flex;
+  flex-direction: row-reverse;
 }
 
 .headerli a {
@@ -21,7 +23,7 @@
 
 .container {
   text-align: center;
-  margin: 100px;
+  margin-bottom: 100px;
 }
 
 .search-area {
