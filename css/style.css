@@ -161,6 +161,7 @@ button:hover{
   margin-left: -8px;
   line-height: 10px;
   list-style: none;
+  background-color: #f2f2f2;
 }
 
 .footerli {
